@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 
 //Creamos un initialState vacío para que el contenido sea servido por la función de iniciación 'init'
 //const initialState = [];
